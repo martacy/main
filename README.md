@@ -1,4 +1,5 @@
 # main
-bunch of tests
+edited: b
+unch of tests
 
-change made on branch1
+newline: change made on branch1
